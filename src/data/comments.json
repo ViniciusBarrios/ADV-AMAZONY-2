@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Amanda Ferreira",
+    "avatar": "/assets/avatars/Amanda Ferreira.jpg",
+    "mensage": "Como uma mulher de 50 anos, comecei a notar alguns sinais de envelhecimento em minha pele, incluindo pés de galinha e linhas finas ao redor dos lábios. Mas este produto com óleo de rosa mosqueta tem sido uma verdadeira ajuda para melhorar a aparência dessas áreas. Minha pele parece mais jovem.",
+    "createdAt": "há 2 dias"
+  },
+  {
+    "id": 2,
+    "name": "Lavinia Souza",
+    "avatar": "/assets/avatars/Lavinia Souza.jfif",
+    "mensage": "Estou usando a 1 semana e é surreal como minha pele já mudou, minha machas diminuíram, tá sequinha e desde então não aparece espinhas, poros diminuíram também. amei e não vivo mais sem!",
+    "createdAt": "há 3 dias"
+  },
+  {
+    "id": 3,
+    "name": "Sophia Alves",
+    "avatar": "/assets/avatars/Sophia Alves.jfif",
+    "mensage": "Eu experimentei muitos produtos ao longo dos anos para tentar melhorar a aparência da minha pele, mas nada parecia funcionar. No entanto, este produto com óleo de rosa mosqueta foi um verdadeiro achado. Minha pele está mais suave, hidratada e as linhas finas estão menos visíveis. Recomendo!",
+    "createdAt": "há 7 dias"
+  },
+  {
+    "id": 4,
+    "name": "Luiza Cavalcanti",
+    "avatar": "/assets/avatars/Luiza Cavalcanti.jfif",
+    "mensage": "Eu sou uma mulher de 65 anos e tenho lutado contra a flacidez da minha pele há anos. Mas depois de usar este produto com óleo de rosa mosqueta por algumas semanas, notei uma diferença significativa na firmeza e elasticidade da minha pele. Estou muito satisfeita com os resultados!",
+    "createdAt": "há 1 mês"
+  },
+  {
+    "id": 5,
+    "name": "Ana Barbosa",
+    "avatar": "/assets/avatars/Ana Barbosa.jpeg",
+    "mensage": "Estou usando já faz 1 més não sou apenas eu que percebi os resultado em minha pele, meu marido a algumas semanas atraz me elogiou falando que eu estava mais você e bonita, amei 🥰",
+    "createdAt": "há 2 mês"
+  }
+]
