@@ -243,7 +243,7 @@ export default () => (
 
       <Text css={{ marginTop: "20px" }} className={montserrat.className}>
         Dr. Daphné Thioly-Bensoussan, médica da Amazony eleita uma das 100
-        melhores cirurgiã plástica do mundo pela Academia Internacional de
+        melhores cirurgiães plásticas do mundo pela Academia Internacional de
         Cirurgia Plástica.
       </Text>
 
@@ -323,7 +323,10 @@ export default () => (
         produção dessa reportagem, o fabricante entrou em contato com nossa
         produção e ofereceu um desconto especial de até 70% e a condição de
         parcelamento em até 12x no cartão de crédito para nossos leitores
-        interessados em experimentar o sérum Rosa Amazônica.
+        interessados em experimentar o sérum Rosa Amazônica, a Amazony também
+        oferece uma garantia de 90 dias isso é, se você adquirir o sérum Rosa
+        Amazônica e não gostar dos resultados, dentro de 90 dias poderá pedir
+        seu dinheiro de volta.
       </Text>
 
       <Text css={{ marginTop: "20px" }} className={montserrat.className}>
