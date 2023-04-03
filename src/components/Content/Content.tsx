@@ -243,13 +243,13 @@ export default () => (
 
       <Text css={{ marginTop: "20px" }} className={montserrat.className}>
         Dr. Daphné Thioly-Bensoussan, médica da Amazony eleita uma das 100
-        melhores cirurgiões pástlicas do mundo pela Academia Internacional de
+        melhores cirurgiã plástica do mundo pela Academia Internacional de
         Cirurgia Plástica.
       </Text>
 
       <Picture
         image="/assets/imgs/médica.jpg"
-        description="Médica Dermatologista Daphné Thioly-Bensoussan. (Foto: Anti Age Magazine)"
+        description="Médica Daphné Thioly-Bensoussan. (Foto: Anti Age Magazine)"
         marginTop="30px"
       />
 
