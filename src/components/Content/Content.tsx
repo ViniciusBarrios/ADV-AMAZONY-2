@@ -323,7 +323,7 @@ export default () => (
         produção dessa reportagem, o fabricante entrou em contato com nossa
         produção e ofereceu um desconto especial de até 70% e a condição de
         parcelamento em até 12x no cartão de crédito para nossos leitores
-        interessados em experimentar o Rosa Amazônica.
+        interessados em experimentar o sérum Rosa Amazônica.
       </Text>
 
       <Text css={{ marginTop: "20px" }} className={montserrat.className}>
